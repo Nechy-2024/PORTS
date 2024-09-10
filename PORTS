@@ -1,0 +1,8 @@
+**PORTS COMMONLY USED IN WEB (http, https, ssh, telnet, sftp and ftp)**
+
+1. **HTTP (Hypertext Transfer Protocol)**: Port 80 - This port is used for standard web traffic, enabling communication between web browsers and servers.
+2. **HTTPS (Hypertext Transfer Protocol Secure)**: Port 443 - This port is used for secure web traffic, utilizing encryption to ensure safe communication over the internet.
+3. **SSH (Secure Shell)**: Port 22 - This port is used for secure remote administration and file transfers, providing encrypted communication over an unsecured network.
+4. **Telnet**: Port 23 - This port is used for remote command-line access but is not secure, as it transmits data in plaintext.
+5. **FTP (File Transfer Protocol)**: Ports 20 (data transfer) and 21 (control) - These ports are used for transferring files between systems, with port 21 managing the control commands and port 20 handling the actual data transfer.
+6. **SFTP (SSH File Transfer Protocol)**: Port 22 - This port is also used for secure file transfers, leveraging the SSH protocol to ensure encrypted communication
